@@ -50751,25 +50751,6 @@ width = 1145;
 );
 },
 {
-glyphname = Ainvertedbreve.ss02;
-lastChange = "2021-06-22 23:13:02 +0000";
-layers = (
-{
-components = (
-{
-name = A.ss02;
-},
-{
-name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, 1087, 293}";
-}
-);
-layerId = "1C8B4FDB-B0E8-4411-8E26-068C67144FEF";
-width = 1145;
-}
-);
-},
-{
 color = 5;
 glyphname = Ainvertedbreve.ss02;
 lastChange = "2021-06-22 22:53:24 +0000";
@@ -236409,16 +236390,7 @@ width = 600;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Birthstone Script Pro";
-},
-{
-name = postscriptFontName;
-value = "BirthstoneScript Pro";
-}
-);
+interpolationWeight = 400;
 instanceInterpolations = {
 "1C8B4FDB-B0E8-4411-8E26-068C67144FEF" = 1;
 };
