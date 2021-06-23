@@ -17,7 +17,8 @@ DisplayStrings = (
 "Ame/e.ss03 rindio/space/A.ss01 m/e.bounce.001 rindi/o.bounce.001/space/A.ss03 m/e.ss03 rindi/o.ss03 \012/a.bounce/m.bounce.001/e.bounce/r.bounce/i.bounce/n.bounce/d.bounce/i.bounce/o.bounce/space/a.bounce.001/m.bounce.001/e.bounce.001/r.bounce.001/i.bounce.001/n.bounce.001/d.bounce.001/i.bounce.001/o.bounce.001 \012/A.ss02 m/e.bounce rindi/o.bounce/space/A.ss02 m/e.bounce.001 r/i.bounce.001 ndi/o.bounce.001",
 "ß/longs/d.bounce.001/f.bounce.001/k.bounce.001/l.bounce.001/f.ss01.001/h.bounce/l.bounce/f_f_i.ss01/dong",
 "ABCDEFGHIJKLMNOPQRSTUVWXYZ\012",
-"g/f.bounce.001/g.bounce.001/g.bounce/j.bounce/p.bounce/q.bounce/y.bounce/z.bounce/lj.ss03/nj.ss03/f_g.ss02"
+"g/f.bounce.001/g.bounce.001/g.bounce/j.bounce/p.bounce/q.bounce/y.bounce/z.bounce/lj.ss03/nj.ss03/f_g.ss02",
+"/nbspace"
 );
 copyright = "Copyright 2019 The Birthstone Project Authors (https://github.com/googlefonts/birthstone)";
 customParameters = (
@@ -356,6 +357,17 @@ width = 170;
 );
 note = space;
 unicode = 0020;
+},
+{
+glyphname = nbspace;
+layers = (
+{
+layerId = "1C8B4FDB-B0E8-4411-8E26-068C67144FEF";
+width = 170;
+}
+);
+widthMetricsKey = space;
+unicode = 00A0;
 },
 {
 color = 0;
@@ -236375,15 +236387,6 @@ transform = "{1, 0, 0, 1, -11, 130}";
 );
 layerId = "1C8B4FDB-B0E8-4411-8E26-068C67144FEF";
 width = 221;
-}
-);
-},
-{
-glyphname = newGlyph.001;
-layers = (
-{
-layerId = "1C8B4FDB-B0E8-4411-8E26-068C67144FEF";
-width = 600;
 }
 );
 }
